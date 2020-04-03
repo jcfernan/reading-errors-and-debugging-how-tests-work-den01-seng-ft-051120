@@ -1,4 +1,4 @@
-first_number= 0
-second_number= 1
+first_number= 5
+second_number= 7
 sum= first_number + second_number
 p sum
